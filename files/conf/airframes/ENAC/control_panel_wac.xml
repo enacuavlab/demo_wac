@@ -1,0 +1,4 @@
+<control_panel name="paparazzi control panel">
+  <section name="programs"/>
+  <section name="sessions"/>
+</control_panel>
